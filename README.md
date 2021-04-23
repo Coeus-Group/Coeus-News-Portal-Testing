@@ -17,4 +17,4 @@ npm start &
 npx cypress open 
 
 # Test Status 
-[![Coeus.png](https://i.postimg.cc/FKNqKxLL/Coeus.png)](https://postimg.cc/yDpnQcn1)
+[![Coeus-News-portal-testing.png](https://i.postimg.cc/qR54nFsY/Coeus-News-portal-testing.png)](https://postimg.cc/VrnxPDHB)
