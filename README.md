@@ -17,4 +17,4 @@ npm start &
 npx cypress open 
 
 # Test Status 
-All test passed
+[![Coeus.png](https://i.postimg.cc/FKNqKxLL/Coeus.png)](https://postimg.cc/yDpnQcn1)
