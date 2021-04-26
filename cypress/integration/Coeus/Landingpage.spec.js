@@ -19,8 +19,20 @@ describe('Visit the landingpage', function () {
 
     it('Opens new window', function () {
         cy.get('.navbar__header').contains('Coeus News Portal')
-        cy.get('.search').clear().type(' sports')
+        cy.get('.search').clear().type(' Politics')
         cy.get('.submit').click();
+        cy.get('a').contains('Business').click()
+        cy.wait(3000).scrollTo('bottom')
+        cy.get('a').contains('Science').click()
+        cy.wait(3000).scrollTo('bottom')
+        cy.get('a').contains('Technology').click()
+        cy.wait(3000).scrollTo('bottom')
+        cy.get('a').contains('Entertainment').click()
+        cy.wait(3000).scrollTo('bottom')
+        cy.get('a').contains('Science').click()
+        cy.wait(3000).scrollTo('bottom')
+        cy.get('a').contains('Sports').click()
+        cy.wait(3000).scrollTo('bottom')
 
     })
 
