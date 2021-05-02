@@ -17,4 +17,5 @@ open Cypress test runner
 npx cypress open 
 
 # Test Status 
+![](https://img.shields.io/badge/cypress-informational?style=flat&logo=cypress&logoColor=white&color=2bbc8a)
 [![chrome-XSiab-I8-T00.png](https://i.postimg.cc/8cCb7J4r/chrome-XSiab-I8-T00.png)](https://postimg.cc/5YZzGtZx)
