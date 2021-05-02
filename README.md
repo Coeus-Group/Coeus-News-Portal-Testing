@@ -18,4 +18,4 @@ npx cypress open
 
 # Test Status 
 [![Coeus-News-portal-testing.png](https://i.postimg.cc/qR54nFsY/Coeus-News-portal-testing.png)](https://postimg.cc/VrnxPDHB)
-[https://i.imgur.com/OjVzrBM.png](https://i.imgur.com/OjVzrBM.png)
+[![chrome-XSiab-I8-T00.png](https://i.postimg.cc/8cCb7J4r/chrome-XSiab-I8-T00.png)](https://postimg.cc/5YZzGtZx)
