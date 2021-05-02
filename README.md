@@ -1,11 +1,11 @@
 # OverView 
 ![](https://img.shields.io/badge/cypress-informational?style=flat&logo=cypress&logoColor=white&color=2bbc8a)
 
--This repo contains an End to end test scripts  written in Cypress.
+- This repo contains an End to end test scripts  written in Cypress.
 
--The tests are written to be directly compared to the  Coeus-News-Portal.
+- The tests are written to be directly compared to the  Coeus-News-Portal.
 
-`**Installation**` 
+`** Installation **` 
 
 1. Install Cypress via npm:
 2. cd /your/project/path
