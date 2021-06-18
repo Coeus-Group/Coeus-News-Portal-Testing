@@ -20,4 +20,4 @@ npx cypress open
 
 # Test Status 
 ![](https://img.shields.io/badge/passed-informational?style=flat&logo=cypress&logoColor=white&color=2bbc8a)
-[![Testscripts.png](https://i.postimg.cc/D040GySK/Testscripts.png)](https://postimg.cc/jnKR0T68)
+[![Testscripts.png](https://i.postimg.cc/66fzqWHq/Testscripts.png)](https://postimg.cc/XXX9Db66)
